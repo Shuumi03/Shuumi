@@ -1,0 +1,883 @@
+[
+    {
+        "timestamp": "2026-07-29T04:37:22.757Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:46:39.670Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:46:27.635Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "removeserver",
+        "args": [
+            "ime"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:46:14.952Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "ime",
+            "omc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:46:03.782Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "addserver",
+        "args": [
+            "IME",
+            "abc123",
+            "Ime"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:42:46.627Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "stop",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:41:30.408Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "live",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:41:23.518Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listserver",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:41:04.685Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "allplayer",
+        "args": [
+            "sm"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:40:55.211Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "sm",
+            "769"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:39:38.207Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:37:57.635Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "salah123",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:33:30.952Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "stop",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:30:29.516Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "live",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:29:44.894Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:29:37.919Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "stop",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:29:32.376Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "live",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:29:07.069Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "allplayer",
+        "args": [
+            "sm"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:28:52.809Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "sm",
+            "769"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-28T08:27:12.979Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:13:31.576Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "stop",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:11:01.465Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "live",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:53.708Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "allplayer",
+        "args": [
+            "sm"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:43.336Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "sm",
+            "1097"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:37.846Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:28.332Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "sm",
+            "741"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:21.848Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "id",
+            "741"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:16.732Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:10:13.272Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "help",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:09:45.342Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "gp",
+            "hsk"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:09:31.784Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "addserver",
+        "args": [
+            "GarudaPrime",
+            "vgaqm5",
+            "GP"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:09:09.076Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "removeserver",
+        "args": [
+            "garuda"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:08:56.450Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listserver",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:08:50.500Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "addserver",
+        "args": [
+            "Garuda",
+            "Prime",
+            "vgaqm5",
+            "GP"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:08:25.937Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "removeserver",
+        "args": [
+            "gp"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:08:18.270Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listserver",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:07:47.148Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:07:36.395Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listadmin",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:07:31.125Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "addadmin",
+        "args": [
+            "<@684196621394772062>"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:07:00.868Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listadmin",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:06:55.896Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "removeadmin",
+        "args": [
+            "<@684196621394772062>"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:06:42.332Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listadmin",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T08:06:13.885Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listadmin",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:36:17.371Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:36:12.481Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "alice"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:35:52.296Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "h2"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:35:33.796Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "gp",
+            "h2"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:35:25.151Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "gp",
+            "bmc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:35:04.736Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "mugen"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:34:43.936Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "allplayer",
+        "args": [
+            "sm",
+            "mugen"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:34:20.902Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "gp",
+            "hsk"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:34:11.674Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:58.233Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "stop",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:52.607Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "live",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:45.519Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listserver",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:33.156Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "help",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:30.066Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "owner",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:27.706Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "listadmin",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:22.397Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "help",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:33:17.692Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "allplayer",
+        "args": [
+            "sm"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:32:58.933Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "sm",
+            "814"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:32:51.385Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "id",
+        "args": [
+            "player",
+            "814"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:32:42.838Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:32:00.467Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:23:46.082Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:22:17.502Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:21:59.992Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "player",
+        "args": [
+            "sm",
+            "umc"
+        ],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    },
+    {
+        "timestamp": "2026-07-27T07:21:45.496Z",
+        "username": "shuumi09",
+        "userId": "543786924389826570",
+        "command": "logs",
+        "args": [],
+        "guildId": "822288555141103647",
+        "guildName": "Remツ",
+        "channelId": "1529332172148703413",
+        "channelName": "bot-shuumi"
+    }
+]
